@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #3f51b5;
+  padding: 20px;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.App-nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.App-nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 16px;
+}
+
+.App-nav a:hover {
+  text-decoration: underline;
+}
+
+.App-main {
+  padding: 20px;
+} 
